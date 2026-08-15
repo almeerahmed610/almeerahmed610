@@ -1,20 +1,34 @@
-<div align="center">
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-# 👋 Hi, I'm **Almeer Ahmed**
+<!--                        ALMEER AHMED                            -->
 
-### 🤖 AI & Python Developer
+<!--                 PREMIUM GITHUB PROFILE                         -->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=750&lines=AI+%26+Python+Developer;Generative+AI+Enthusiast;RAG+%7C+LangChain+%7C+FastAPI;AI+Chatbot+Developer;Exploring+Agentic+AI+%F0%9F%9A%80"/>
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:1E3A5F,100:06B6D4&text=ALMEER%20AHMED&fontSize=52&fontColor=FFFFFF&fontAlignY=38&animation=twinkling&desc=AI%20%7C%20Python%20%7C%20Generative%20AI&descSize=20&descAlignY=62&descColor=E2E8F0"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,fastapi,git,github,vscode&perline=10"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=850&lines=AI+%26+Python+Developer+%F0%9F%A4%96;Generative+AI+Enthusiast+%F0%9F%A7%A0;RAG+%7C+LangChain+%7C+FastAPI;AI+Chatbot+Developer+%F0%9F%92%AC;Exploring+Agentic+AI+%F0%9F%9A%80;Building+The+Future+With+AI+%E2%9C%A8"/>
+</p>
 
-</div>
+<p align="center">
+  <a href="https://github.com/almeerahmed610">
+    <img src="https://img.shields.io/badge/GitHub-Almeer%20Ahmed-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=almeerahmed610&label=PROFILE%20VIEWS&color=06B6D4&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/almeerahmed610?label=FOLLOWERS&style=for-the-badge&color=1E3A5F&logo=github"/>
+</p>
 
 ---
 
 # 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="55%">
 
 ### Hi, I'm Almeer Ahmed 👋
 
@@ -24,11 +38,13 @@ My current focus is on **Generative AI, Large Language Models, RAG systems, Lang
 
 I believe in learning by building and turning ideas into real-world applications.
 
-<div align="center">
+</td>
+
+<td width="45%">
 
 ```text
 ╔════════════════════════════╗
-║       🤖 AI DEVELOPER      ║
+║       AI DEVELOPER         ║
 ╠════════════════════════════╣
 ║ 🐍 Python                  ║
 ║ 🤖 Generative AI           ║
@@ -40,23 +56,22 @@ I believe in learning by building and turning ideas into real-world applications
 ╚════════════════════════════╝
 ```
 
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 What I'm Currently Learning
+## 🚀 What I'm Currently Learning
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-6366F1?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/FastAPI-0891B2?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Agentic_AI-C026D3?style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Advanced%20Learning-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-Learning-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-Systems-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative-AI-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic-AI-EC4899?style=for-the-badge"/>
+</p>
 
 ---
 
@@ -64,52 +79,48 @@ I believe in learning by building and turning ideas into real-world applications
 
 ### 💻 Languages & Development
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js&perline=6"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js&theme=dark"/>
+</p>
 
 ### 🤖 AI • Backend • Tools
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,git,github,vscode&theme=dark"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode&perline=4"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/LangChain-312E81?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-C026D3?style=for-the-badge"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-0F172A?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-EC4899?style=for-the-badge"/>
+</p>
 
 ---
 
 # 🧠 My AI Journey
 
-<div align="center">
+<p align="center">
 
 ```text
               ┌──────────────────────┐
-              │     💡 IDEA         │
+              │   💡 IDEA            │
               └──────────┬───────────┘
                          │
                          ▼
               ┌──────────────────────┐
-              │    🐍 PYTHON         │
+              │   🐍 PYTHON          │
               └──────────┬───────────┘
                          │
                          ▼
               ┌──────────────────────┐
-              │      🧠 LLMs         │
+              │   🧠 LLMs            │
               └──────────┬───────────┘
                          │
               ┌──────────┴───────────┐
               ▼                      ▼
         ┌───────────┐          ┌────────────┐
-        │  📚 RAG   │          │ 🕵️ AGENTS  │
+        │ 📚 RAG    │          │ 🕵️ AGENTS  │
         └─────┬─────┘          └──────┬─────┘
               │                       │
               └──────────┬────────────┘
@@ -126,105 +137,94 @@ I believe in learning by building and turning ideas into real-world applications
                     🚀 REAL WORLD
 ```
 
-</div>
+</p>
 
 ---
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=almeerahmed610&show_icons=true&hide_border=true&theme=transparent&title_color=6366F1&icon_color=8B5CF6&text_color=64748B&bg_color=FFFFFF&rank_icon=github" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeerahmed610&layout=compact&hide_border=true&theme=transparent&title_color=6366F1&text_color=64748B&bg_color=FFFFFF" width="40%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=almeerahmed610&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeerahmed610&layout=compact&theme=tokyonight&hide_border=true" width="42%"/>
+</p>
 
 ---
 
 # 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=almeerahmed610&theme=transparent&hide_border=true&ring=6366F1&fire=C026D3&currStreakLabel=6366F1&sideLabels=64748B&dates=94A3B8"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=almeerahmed610&theme=tokyonight&hide_border=true&background=0F172A&ring=06B6D4&fire=F59E0B&currStreakLabel=06B6D4"/>
+</p>
 
 ---
 
 # 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=almeerahmed610&bg_color=FFFFFF&color=64748B&line=6366F1&point=C026D3&area=true&hide_border=true&custom_title=Almeer%20Ahmed's%20Contribution%20Activity" width="95%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=almeerahmed610&bg_color=0F172A&color=E2E8F0&line=06B6D4&point=FFFFFF&area=true&hide_border=true&custom_title=Almeer%20Ahmed's%20Contribution%20Graph" width="96%"/>
+</p>
 
 ---
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/almeerahmed610/almeerahmed610/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/almeerahmed610/almeerahmed610/output/github-contribution-grid-snake.svg" alt="Animated Contribution Snake"/>
+</p>
 
 ---
 
 # 🎯 2026 Goals
 
-| 🚀 Goal | 🎯 Focus                             |
-| :------ | :----------------------------------- |
-| 🐍      | **Master Python**                    |
-| 🤖      | **Build Generative AI Applications** |
-| 📚      | **Develop RAG Systems**              |
-| 🔗      | **Build with LangChain**             |
-| ⚡       | **Create FastAPI Backends**          |
-| 🧠      | **Explore Agentic AI**               |
-| 💬      | **Build Intelligent AI Chatbots**    |
-| 🌎      | **Create Real-World AI Projects**    |
+<p align="center">
+
+| 🚀 Goal |             🎯 Focus             |
+| :-----: | :------------------------------: |
+|    🐍   |           Master Python          |
+|    🤖   | Build Generative AI Applications |
+|    📚   |        Develop RAG Systems       |
+|    🔗   |       Build with LangChain       |
+|    ⚡    |      Create FastAPI Backends     |
+|    🧠   |        Explore Agentic AI        |
+|    💬   |   Build Intelligent AI Chatbots  |
+|    🌎   |   Create Real-World AI Projects  |
+
+</p>
 
 ---
 
 # 💡 Developer Philosophy
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve;Turn+Ideas+Into+Intelligent+Solutions;Build+Something+Better+Every+Day+%F0%9F%9A%80"/>
-
-### **“Learn. Build. Improve. Repeat.”**
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Learn+%E2%86%92+Build+%E2%86%92+Fail+%E2%86%92+Improve+%E2%86%92+Repeat+%F0%9F%94%A5;Code+with+Purpose.+Build+with+Passion.+%F0%9F%9A%80;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%A4%96"/>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/almeerahmed610">
-
-<img src="https://img.shields.io/badge/GitHub-Almeer%20Ahmed-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=almeerahmed610&label=PROFILE%20VIEWS&style=for-the-badge&color=6366F1"/>
-
-</div>
+<p align="center">
+  <a href="https://github.com/almeerahmed610">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github"/>
+  </a>
+</p>
 
 ---
 
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=2"/>
+</p>
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+profile+%F0%9F%91%8B;Star+%E2%AD%90+my+repositories+if+you+find+them+useful!;Let's+Build+Something+Amazing+%F0%9F%9A%80"/>
+</p>
 
-**🐍 Python • 🤖 AI • 📚 RAG • 🔗 LangChain • ⚡ FastAPI**
+<p align="center">
+  <b>🚀 Keep Learning • Keep Building • Keep Growing 🚀</b>
+</p>
 
-<br>
+<!-- FOOTER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:312E81,50:6366F1,100:C026D3&animation=twinkling"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1E3A5F,100:0F172A&height=130&section=footer"/>
+</p>
