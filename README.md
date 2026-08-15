@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ALMEER%20AHMED&fontSize=52&fontColor=ffffff&fontAlignY=38&color=gradient&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ALMEER%20AHMED&fontSize=52&fontColor=ffffff&fontAlignY=38&color=0:0F172A,50:2563EB,100:06B6D4&animation=twinkling"/>
 
-### 🤖 AI & Python Developer
+🤖 AI & Python Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Python+%7C+Generative+AI+%7C+LLMs;RAG+%7C+LangChain+%7C+FastAPI;AI+Chatbots+%7C+Agentic+AI;Learning+Today.+Building+Tomorrow.+%F0%9F%9A%80"/>
 
@@ -18,44 +18,29 @@
 
 </div>
 
----
+👨‍💻 About Me
 
-## 👨‍💻 About Me
+I'm Almeer Ahmed, an aspiring AI & Python Developer focused on building intelligent and practical applications.
 
-<table>
-<tr>
-<td width="60%">
+My current journey is centered around Generative AI, Large Language Models, RAG systems, LangChain, FastAPI and Agentic AI.
 
-I'm **Almeer Ahmed**, an aspiring **AI & Python Developer** focused on building intelligent and practical applications.
+I believe the best way to learn technology is to build real projects, solve problems and continuously improve.
 
-My current journey is centered around **Generative AI, Large Language Models, RAG systems, LangChain, FastAPI and Agentic AI**.
+🐍 Learning and building with Python
 
-I believe the best way to learn technology is to **build real projects, solve problems and continuously improve**.
+🤖 Exploring Generative AI & LLMs
 
-</td>
-<td width="40%">
+📚 Learning Retrieval-Augmented Generation (RAG)
 
-```text
-┌─────────────────────────┐
-│    ALMEER AHMED         │
-├─────────────────────────┤
-│ 🐍 Python               │
-│ 🤖 Generative AI        │
-│ 🧠 LLMs                 │
-│ 📚 RAG Systems          │
-│ 🔗 LangChain            │
-│ ⚡ FastAPI              │
-│ 🕵️ AI Agents           │
-└─────────────────────────┘
-```
+🔗 Exploring LangChain
 
-</td>
-</tr>
-</table>
+⚡ Building APIs with FastAPI
 
----
+🧠 Exploring AI Agents & Agentic AI
 
-## 🧠 AI & Development Stack
+🚀 Working toward real-world AI applications
+
+🧠 AI & Development Stack
 
 <div align="center">
 
@@ -69,23 +54,24 @@ I believe the best way to learn technology is to **build real projects, solve pr
 
 </div>
 
----
-
-## ⚡ What I'm Currently Learning
+💻 Tech Stack
 
 <div align="center">
 
-**🐍 Python** → **🧠 LLMs** → **📚 RAG** → **🔗 LangChain** → **⚡ FastAPI** → **🤖 AI Agents**
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,fastapi,git,github,vscode&perline=10"/>
 
 </div>
 
----
-
-## 🚀 AI Architecture
+⚡ Currently Learning
 
 <div align="center">
 
-```text
+🐍 Python → 🧠 LLMs → 📚 RAG → 🔗 LangChain → ⚡ FastAPI → 🤖 AI Agents
+
+</div>
+
+🚀 AI Architecture
+
                          💡 IDEA
                            │
                            ▼
@@ -111,13 +97,8 @@ I believe the best way to learn technology is to **build real projects, solve pr
                            │
                            ▼
                     🚀 AI APPLICATION
-```
 
-</div>
-
----
-
-# 🐍 GitHub Contribution Snake
+🐍 GitHub Contribution Snake
 
 <div align="center">
 
@@ -125,9 +106,7 @@ I believe the best way to learn technology is to **build real projects, solve pr
 
 </div>
 
----
-
-## 📊 GitHub Analytics
+📊 GitHub Analytics
 
 <div align="center">
 
@@ -137,9 +116,7 @@ I believe the best way to learn technology is to **build real projects, solve pr
 
 </div>
 
----
-
-## 🔥 Contribution Streak
+🔥 Contribution Streak
 
 <div align="center">
 
@@ -147,27 +124,41 @@ I believe the best way to learn technology is to **build real projects, solve pr
 
 </div>
 
----
+🎯 2026 Mission
 
-## 🎯 2026 Mission
+Goal
 
-<table align="center">
-<tr>
-<td align="center">🐍<br><b>Python</b></td>
-<td>→</td>
-<td align="center">🤖<br><b>Generative AI</b></td>
-<td>→</td>
-<td align="center">📚<br><b>RAG</b></td>
-<td>→</td>
-<td align="center">🔗<br><b>LangChain</b></td>
-<td>→</td>
-<td align="center">🧠<br><b>AI Agents</b></td>
-</tr>
-</table>
+Focus
 
----
+🐍
 
-## 💻 Developer Mindset
+Improve Python Development
+
+🤖
+
+Build Generative AI Applications
+
+📚
+
+Develop RAG-based Applications
+
+🔗
+
+Master LangChain
+
+⚡
+
+Build APIs with FastAPI
+
+🧠
+
+Learn AI Agents
+
+🚀
+
+Create Real-World AI Projects
+
+💡 Developer Mindset
 
 <div align="center">
 
@@ -175,9 +166,7 @@ I believe the best way to learn technology is to **build real projects, solve pr
 
 </div>
 
----
-
-## 🌐 Connect With Me
+🌐 Connect With Me
 
 <div align="center">
 
@@ -187,16 +176,14 @@ I believe the best way to learn technology is to **build real projects, solve pr
 
 </div>
 
----
-
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
-**Keep Learning • Keep Building • Keep Growing**
+Keep Learning • Keep Building • Keep Growing 🚀
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=gradient&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,50:2563EB,100:0F172A&animation=twinkling"/>
 
 </div>
