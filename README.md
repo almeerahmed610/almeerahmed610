@@ -1,189 +1,230 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=ALMEER%20AHMED&fontSize=52&fontColor=ffffff&fontAlignY=38&color=0:0F172A,50:2563EB,100:06B6D4&animation=twinkling"/>
+# 👋 Hi, I'm **Almeer Ahmed**
 
-🤖 AI & Python Developer
+### 🤖 AI & Python Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=750&lines=Building+Intelligent+AI+Applications;Python+%7C+Generative+AI+%7C+LLMs;RAG+%7C+LangChain+%7C+FastAPI;AI+Chatbots+%7C+Agentic+AI;Learning+Today.+Building+Tomorrow.+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=750&lines=AI+%26+Python+Developer;Generative+AI+Enthusiast;RAG+%7C+LangChain+%7C+FastAPI;AI+Chatbot+Developer;Exploring+Agentic+AI+%F0%9F%9A%80"/>
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,fastapi,git,github,vscode&perline=10"/>
 
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+### Hi, I'm Almeer Ahmed 👋
+
+I'm an aspiring **AI & Python Developer** passionate about creating intelligent, practical and modern software solutions.
+
+My current focus is on **Generative AI, Large Language Models, RAG systems, LangChain, FastAPI, AI Chatbots and Agentic AI**.
+
+I believe in learning by building and turning ideas into real-world applications.
+
+<div align="center">
+
+```text
+╔════════════════════════════╗
+║       🤖 AI DEVELOPER      ║
+╠════════════════════════════╣
+║ 🐍 Python                  ║
+║ 🤖 Generative AI           ║
+║ 🧠 LLM Applications        ║
+║ 📚 RAG Systems             ║
+║ 🔗 LangChain               ║
+║ ⚡ FastAPI                 ║
+║ 🕵️ AI Agents              ║
+╚════════════════════════════╝
+```
+
+</div>
+
+---
+
+# 🚀 What I'm Currently Learning
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Python-6366F1?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-0891B2?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Agentic_AI-C026D3?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🛠️ Technology Stack
+
+### 💻 Languages & Development
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js&perline=6"/>
+
+</div>
+
+### 🤖 AI • Backend • Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,git,github,vscode&perline=4"/>
+
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=almeerahmed610&label=PROFILE%20VIEWS&style=flat-square&color=2563EB"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/almeerahmed610?label=FOLLOWERS&style=flat-square&logo=github&color=2563EB"/>
+<img src="https://img.shields.io/badge/LangChain-312E81?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-4F46E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative_AI-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-C026D3?style=for-the-badge"/>
 
 </div>
 
-👨‍💻 About Me
+---
 
-I'm Almeer Ahmed, an aspiring AI & Python Developer focused on building intelligent and practical applications.
-
-My current journey is centered around Generative AI, Large Language Models, RAG systems, LangChain, FastAPI and Agentic AI.
-
-I believe the best way to learn technology is to build real projects, solve problems and continuously improve.
-
-🐍 Learning and building with Python
-
-🤖 Exploring Generative AI & LLMs
-
-📚 Learning Retrieval-Augmented Generation (RAG)
-
-🔗 Exploring LangChain
-
-⚡ Building APIs with FastAPI
-
-🧠 Exploring AI Agents & Agentic AI
-
-🚀 Working toward real-world AI applications
-
-🧠 AI & Development Stack
+# 🧠 My AI Journey
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Generative%20AI-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Agents-DB2777?style=for-the-badge"/>
+```text
+              ┌──────────────────────┐
+              │     💡 IDEA         │
+              └──────────┬───────────┘
+                         │
+                         ▼
+              ┌──────────────────────┐
+              │    🐍 PYTHON         │
+              └──────────┬───────────┘
+                         │
+                         ▼
+              ┌──────────────────────┐
+              │      🧠 LLMs         │
+              └──────────┬───────────┘
+                         │
+              ┌──────────┴───────────┐
+              ▼                      ▼
+        ┌───────────┐          ┌────────────┐
+        │  📚 RAG   │          │ 🕵️ AGENTS  │
+        └─────┬─────┘          └──────┬─────┘
+              │                       │
+              └──────────┬────────────┘
+                         ▼
+                  🔗 LANGCHAIN
+                         │
+                         ▼
+                    ⚡ FASTAPI
+                         │
+                         ▼
+                  🤖 AI APPLICATION
+                         │
+                         ▼
+                    🚀 REAL WORLD
+```
 
 </div>
 
-💻 Tech Stack
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,fastapi,git,github,vscode&perline=10"/>
+<img src="https://github-readme-stats.vercel.app/api?username=almeerahmed610&show_icons=true&hide_border=true&theme=transparent&title_color=6366F1&icon_color=8B5CF6&text_color=64748B&bg_color=FFFFFF&rank_icon=github" width="48%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeerahmed610&layout=compact&hide_border=true&theme=transparent&title_color=6366F1&text_color=64748B&bg_color=FFFFFF" width="40%"/>
 
 </div>
 
-⚡ Currently Learning
+---
+
+# 🔥 Contribution Streak
 
 <div align="center">
 
-🐍 Python → 🧠 LLMs → 📚 RAG → 🔗 LangChain → ⚡ FastAPI → 🤖 AI Agents
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=almeerahmed610&theme=transparent&hide_border=true&ring=6366F1&fire=C026D3&currStreakLabel=6366F1&sideLabels=64748B&dates=94A3B8"/>
 
 </div>
 
-🚀 AI Architecture
+---
 
-                         💡 IDEA
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │   PYTHON    │
-                    └──────┬──────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │     LLM     │
-                    └──────┬──────┘
-                           │
-               ┌───────────┴───────────┐
-               ▼                       ▼
-          📚 RAG SYSTEM            🤖 AI AGENT
-               │                       │
-               └───────────┬───────────┘
-                           ▼
-                      🔗 LANGCHAIN
-                           │
-                           ▼
-                       ⚡ FASTAPI
-                           │
-                           ▼
-                    🚀 AI APPLICATION
-
-🐍 GitHub Contribution Snake
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/almeerahmed610/almeerahmed610/output/github-contribution-grid-snake.svg" alt="Animated GitHub Contribution Snake" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=almeerahmed610&bg_color=FFFFFF&color=64748B&line=6366F1&point=C026D3&area=true&hide_border=true&custom_title=Almeer%20Ahmed's%20Contribution%20Activity" width="95%"/>
 
 </div>
 
-📊 GitHub Analytics
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=almeerahmed610&show_icons=true&hide_border=true&theme=default&title_color=2563EB&icon_color=2563EB&text_color=374151&bg_color=ffffff&rank_icon=github&include_all_commits=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeerahmed610&layout=compact&hide_border=true&theme=default&title_color=2563EB&text_color=374151&bg_color=ffffff" width="40%"/>
+<img src="https://raw.githubusercontent.com/almeerahmed610/almeerahmed610/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="95%"/>
 
 </div>
 
-🔥 Contribution Streak
+---
+
+# 🎯 2026 Goals
+
+| 🚀 Goal | 🎯 Focus                             |
+| :------ | :----------------------------------- |
+| 🐍      | **Master Python**                    |
+| 🤖      | **Build Generative AI Applications** |
+| 📚      | **Develop RAG Systems**              |
+| 🔗      | **Build with LangChain**             |
+| ⚡       | **Create FastAPI Backends**          |
+| 🧠      | **Explore Agentic AI**               |
+| 💬      | **Build Intelligent AI Chatbots**    |
+| 🌎      | **Create Real-World AI Projects**    |
+
+---
+
+# 💡 Developer Philosophy
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=almeerahmed610&theme=default&hide_border=true&ring=2563EB&fire=F59E0B&currStreakLabel=2563EB&sideLabels=374151&dates=64748B"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=6366F1&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve;Turn+Ideas+Into+Intelligent+Solutions;Build+Something+Better+Every+Day+%F0%9F%9A%80"/>
+
+### **“Learn. Build. Improve. Repeat.”**
 
 </div>
 
-🎯 2026 Mission
+---
 
-Goal
-
-Focus
-
-🐍
-
-Improve Python Development
-
-🤖
-
-Build Generative AI Applications
-
-📚
-
-Develop RAG-based Applications
-
-🔗
-
-Master LangChain
-
-⚡
-
-Build APIs with FastAPI
-
-🧠
-
-Learn AI Agents
-
-🚀
-
-Create Real-World AI Projects
-
-💡 Developer Mindset
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=700&lines=Learn+%E2%86%92+Build+%E2%86%92+Test+%E2%86%92+Improve;Every+Project+Is+A+Step+Forward+%F0%9F%9A%80;Turning+Ideas+Into+Intelligent+Solutions+%F0%9F%A4%96"/>
-
-</div>
-
-🌐 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/almeerahmed610">
-<img src="https://img.shields.io/badge/GitHub-Almeer%20Ahmed-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-Almeer%20Ahmed-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=almeerahmed610&label=PROFILE%20VIEWS&style=for-the-badge&color=6366F1"/>
 
 </div>
 
+---
+
 <div align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Thanks for visiting my profile!
 
-Keep Learning • Keep Building • Keep Growing 🚀
+**🐍 Python • 🤖 AI • 📚 RAG • 🔗 LangChain • ⚡ FastAPI**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:06B6D4,50:2563EB,100:0F172A&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:312E81,50:6366F1,100:C026D3&animation=twinkling"/>
 
 </div>
